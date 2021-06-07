@@ -6,7 +6,7 @@ screen = pygame.display.set_mode((468, 501))
 
 hiding_in_the_darknessIMG = pygame.image.load('hiding_in_the_darkness.png')
 
-pygame.display.set_caption('You\'re Next')
+pygame.display.set_caption('Your Soul Can\'t Be Saved')
 icon = pygame.image.load('watchingyou.ico')
 pygame.display.set_icon(icon)
 
